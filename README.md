@@ -1,5 +1,5 @@
 # herbsWithJava
-
+## Java Web
 使用MVC模式开发草药管理系统  
 软件：Eclipse IDE+Tomcat+MySQL  
 技术：Java+HTML+CSS+JavaScript+jdbc+关系型数据库  
